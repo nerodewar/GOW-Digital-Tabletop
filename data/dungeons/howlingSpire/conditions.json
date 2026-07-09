@@ -1,0 +1,38 @@
+[
+  {
+    "key": "razor-gusts",
+    "title": "Razor Gusts",
+    "modifier": 1,
+    "stat": "Condition +1",
+    "text": "The wind cuts at banners and breath. Dungeon Score +1.",
+    "win": "Push an enemy player back 1 space if they are on your realm ring.",
+    "lose": "Move back 5 spaces instead of 4."
+  },
+  {
+    "key": "updraft",
+    "title": "Updraft",
+    "modifier": -1,
+    "stat": "Condition -1",
+    "text": "A sudden lift carries you upward. Dungeon Score -1.",
+    "win": "Claim Hurricane and move 1 extra space.",
+    "lose": "Discard 1 committed troop only."
+  },
+  {
+    "key": "screaming-arch",
+    "title": "Screaming Arch",
+    "modifier": 2,
+    "stat": "Condition +2",
+    "text": "The archway screams until courage cracks. Dungeon Score +2.",
+    "win": "Gain 1 Mastery as well as Hurricane.",
+    "lose": "Move back 4 spaces, discard 1 committed troop, and draw 1 Curse."
+  },
+  {
+    "key": "silent-summit",
+    "title": "Silent Summit",
+    "modifier": 0,
+    "stat": "Condition +0",
+    "text": "At the top, the storm holds its breath. No score change.",
+    "win": "Your next movement roll gets +2.",
+    "lose": "Move back 4 spaces and discard 1 committed troop."
+  }
+]

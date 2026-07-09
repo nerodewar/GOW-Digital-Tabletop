@@ -1,0 +1,12 @@
+{
+  "key": "emberVault",
+  "title": "Ember Vault",
+  "type": "Dungeon",
+  "element": "Flame",
+  "baseDifficulty": 8,
+  "maxTroops": 3,
+  "reward": "Eternal Flame",
+  "win": "Claim Eternal Flame.",
+  "lose": "Discard 1 committed troop and move back 2 spaces.",
+  "text": "A sealed furnace-temple where the first fire still eats the air."
+}

@@ -1,0 +1,12 @@
+{
+  "key": "howlingSpire",
+  "title": "Howling Spire",
+  "type": "Dungeon",
+  "element": "Wind",
+  "baseDifficulty": 8,
+  "maxTroops": 3,
+  "reward": "Hurricane",
+  "win": "Claim Hurricane.",
+  "lose": "Move back 4 spaces and discard 1 committed troop.",
+  "text": "A needle-tower where every stair argues with the sky."
+}

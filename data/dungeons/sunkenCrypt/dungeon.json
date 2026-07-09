@@ -1,0 +1,12 @@
+{
+  "key": "sunkenCrypt",
+  "title": "Sunken Crypt",
+  "type": "Dungeon",
+  "element": "Tide",
+  "baseDifficulty": 8,
+  "maxTroops": 3,
+  "reward": "Oceanic Tides",
+  "win": "Claim Oceanic Tides.",
+  "lose": "Discard 1 committed troop or lose 2 gold.",
+  "text": "A drowned royal tomb breathing bubbles through its locked mouth."
+}

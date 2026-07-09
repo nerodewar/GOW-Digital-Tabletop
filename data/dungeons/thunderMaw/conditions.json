@@ -1,0 +1,38 @@
+[
+  {
+    "key": "living-conductors",
+    "title": "Living Conductors",
+    "modifier": 1,
+    "stat": "Condition +1",
+    "text": "The walls carry the storm into every shield. Dungeon Score +1.",
+    "win": "Your next movement roll gets +1.",
+    "lose": "Subtract 1 from your next battle roll."
+  },
+  {
+    "key": "eye-of-the-maw",
+    "title": "Eye of the Maw",
+    "modifier": 0,
+    "stat": "Condition +0",
+    "text": "A still pocket opens inside the thunder. No score change.",
+    "win": "Move 1 extra space after claiming the Power.",
+    "lose": "End your next movement early."
+  },
+  {
+    "key": "sky-splinter",
+    "title": "Sky Splinter",
+    "modifier": 2,
+    "stat": "Condition +2",
+    "text": "A spear of lightning pins the battlefield. Dungeon Score +2.",
+    "win": "Gain 1 Mastery as well as Lightning Storm.",
+    "lose": "Discard 1 committed troop and draw 1 Curse."
+  },
+  {
+    "key": "fading-rumble",
+    "title": "Fading Rumble",
+    "modifier": -1,
+    "stat": "Condition -1",
+    "text": "The storm is retreating beyond the peak. Dungeon Score -1.",
+    "win": "Claim Lightning Storm and reroll your next failed Gate roll.",
+    "lose": "Discard 1 committed troop only."
+  }
+]

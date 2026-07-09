@@ -1,0 +1,12 @@
+{
+  "key": "demonGate",
+  "title": "Demon Gate",
+  "type": "Dungeon",
+  "element": "Chaos",
+  "baseDifficulty": 9,
+  "maxTroops": 3,
+  "reward": "Draw 1 Elemental Power",
+  "win": "Draw 1 Elemental Power.",
+  "lose": "Draw 1 Curse and discard 1 troop.",
+  "text": "A red-black gate that bargains in screams and crowns."
+}

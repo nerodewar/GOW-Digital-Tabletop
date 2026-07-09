@@ -1,0 +1,12 @@
+{
+  "key": "stoneRoot",
+  "title": "Stone Root",
+  "type": "Dungeon",
+  "element": "Stone",
+  "baseDifficulty": 8,
+  "maxTroops": 3,
+  "reward": "Grounded Earth",
+  "win": "Claim Grounded Earth.",
+  "lose": "Discard 1 committed troop and draw 1 Curse.",
+  "text": "Roots of an elder mountain twist through a buried fortress."
+}

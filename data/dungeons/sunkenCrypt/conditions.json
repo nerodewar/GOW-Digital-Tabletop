@@ -1,0 +1,38 @@
+[
+  {
+    "key": "black-current",
+    "title": "Black Current",
+    "modifier": 1,
+    "stat": "Condition +1",
+    "text": "A cold current drags the fight sideways. Dungeon Score +1.",
+    "win": "Recover 1 lost troop after claiming the Power.",
+    "lose": "Also move back 2 spaces."
+  },
+  {
+    "key": "pearl-lanterns",
+    "title": "Pearl Lanterns",
+    "modifier": -1,
+    "stat": "Condition -1",
+    "text": "Ancient lights reveal the safest path. Dungeon Score -1.",
+    "win": "Claim Oceanic Tides and gain 1 gold.",
+    "lose": "Lose 1 gold instead of 2 if choosing gold loss."
+  },
+  {
+    "key": "drowned-kings",
+    "title": "Drowned Kings",
+    "modifier": 2,
+    "stat": "Condition +2",
+    "text": "The dead kings rise in armour of salt. Dungeon Score +2.",
+    "win": "Gain 1 Mastery as well as Oceanic Tides.",
+    "lose": "Discard 1 committed troop and draw 1 Curse."
+  },
+  {
+    "key": "low-tide",
+    "title": "Low Tide",
+    "modifier": 0,
+    "stat": "Condition +0",
+    "text": "The water falls, exposing cracked steps. No score change.",
+    "win": "Draw 1 Bonus after claiming the Power.",
+    "lose": "Choose: discard 1 committed troop or lose 2 gold."
+  }
+]

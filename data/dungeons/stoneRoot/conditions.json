@@ -1,0 +1,38 @@
+[
+  {
+    "key": "iron-bark",
+    "title": "Iron Bark",
+    "modifier": 1,
+    "stat": "Condition +1",
+    "text": "The roots harden into armour. Dungeon Score +1.",
+    "win": "Ignore your next troop loss.",
+    "lose": "The Curse drawn cannot be ignored."
+  },
+  {
+    "key": "cracked-pillars",
+    "title": "Cracked Pillars",
+    "modifier": -1,
+    "stat": "Condition -1",
+    "text": "The old pillars fracture under their own weight. Dungeon Score -1.",
+    "win": "Claim Grounded Earth and gain +1 on your next Dungeon battle.",
+    "lose": "Discard 1 committed troop only."
+  },
+  {
+    "key": "buried-oath",
+    "title": "Buried Oath",
+    "modifier": 0,
+    "stat": "Condition +0",
+    "text": "A stone vow demands discipline. No score change.",
+    "win": "Gain 1 Mastery if you committed exactly 2 troops.",
+    "lose": "Draw 1 Curse."
+  },
+  {
+    "key": "mountain-heart",
+    "title": "Mountain Heart",
+    "modifier": 2,
+    "stat": "Condition +2",
+    "text": "The living mountain wakes beneath you. Dungeon Score +2.",
+    "win": "Gain 1 Mastery as well as Grounded Earth.",
+    "lose": "Discard 1 committed troop, draw 1 Curse, and move back 1 space."
+  }
+]
